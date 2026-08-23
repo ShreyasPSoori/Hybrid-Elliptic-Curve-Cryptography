@@ -1,0 +1,58 @@
+# ==============================
+# Python virtual environment
+# ==============================
+.venv/
+venv/
+env/
+
+# ==============================
+# Python cache
+# ==============================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ==============================
+# Generated files
+# ==============================
+encrypted.bin
+decrypted.txt
+*.enc
+*.encrypted
+output/
+
+# ==============================
+# Cryptographic key material
+# NEVER upload private keys
+# ==============================
+keys/
+*.key
+*.pem
+*.der
+*.p12
+*.pfx
+
+# ==============================
+# Environment variables / secrets
+# ==============================
+.env
+.env.*
+!.env.example
+
+# ==============================
+# IDE files
+# ==============================
+.vscode/
+.idea/
+
+# ==============================
+# Logs
+# ==============================
+*.log
+
+# ==============================
+# OS files
+# ==============================
+.DS_Store
+Thumbs.db
+desktop.ini
