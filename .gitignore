@@ -56,3 +56,8 @@ keys/
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# ==============================
+# liboqs native library
+# ==============================
+liboqs/
