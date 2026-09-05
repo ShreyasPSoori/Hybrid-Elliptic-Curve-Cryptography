@@ -11,6 +11,14 @@
 
 An educational prototype demonstrating secure file exchange between two users by combining classical, post-quantum, and symmetric cryptography.
 
+## Screenshots
+
+### Sender Side
+![Sender UI](screenshots/sender.png)
+
+### Receiver Side  
+![Receiver UI](screenshots/receiver.png)
+
 ## Features
 
 - **AES-256-GCM**: Fast file encryption with authenticated encryption
